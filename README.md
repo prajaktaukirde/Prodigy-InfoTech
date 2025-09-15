@@ -12,4 +12,4 @@ MODE: ONLINE
 OFFER LETTER:-
 
 
-<img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/a622827a-e2e6-4e9a-aa9d-58f42d528b28" />
+<img width="1200" height="1700" alt="Untitled design" src="https://github.com/user-attachments/assets/a622827a-e2e6-4e9a-aa9d-58f42d528b28" />
