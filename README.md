@@ -10,4 +10,5 @@ INTERSHIP DURATION: 1 MONTHS [15 Sept - 15 Oct 2025]
 MODE: ONLINE
 
 OFFER LETTER:-
-![Alt text](C:\Users\prajakta ukirde\Pictures\Screenshots\Screenshot 2025-09-15 185825.png)
+![Screenshot]((C:\Users\prajakta ukirde\Pictures\Screenshots\Screenshot 2025-09-15 185825.png))
+
